@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F0349D79-738D-4BD0-B41C-A20AAD648408}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="web4/Default.aspx.cs">
+    <Files>
+      <File FileName="web4/Default.aspx" Line="12" Column="8" />
+      <File FileName="web4/Default.aspx.cs" Line="12" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="web4" expanded="True">
+            <Node name="web4" expanded="True">
+              <Node name="Default.aspx" expanded="True">
+                <Node name="Default.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.web4.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.web4 PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

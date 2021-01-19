@@ -1,0 +1,13 @@
+/Users/yefersontorresberru/Projects/web4/web4/bin/web4.dll
+/Users/yefersontorresberru/Projects/web4/web4/bin/web4.pdb
+/Users/yefersontorresberru/Projects/web4/web4/obj/Debug/web4.csprojAssemblyReference.cache
+/Users/yefersontorresberru/Projects/web4/web4/obj/Debug/web4.csproj.CoreCompileInputs.cache
+/Users/yefersontorresberru/Projects/web4/web4/obj/Debug/web4.dll
+/Users/yefersontorresberru/Projects/web4/web4/obj/Debug/web4.pdb
+C:\Users\Alexis\Documents\PROYECTOS\ExtJS\CrudPersona\web4\bin\web4.dll.config
+C:\Users\Alexis\Documents\PROYECTOS\ExtJS\CrudPersona\web4\bin\web4.dll
+C:\Users\Alexis\Documents\PROYECTOS\ExtJS\CrudPersona\web4\bin\web4.pdb
+C:\Users\Alexis\Documents\PROYECTOS\ExtJS\CrudPersona\web4\obj\Debug\web4.csprojAssemblyReference.cache
+C:\Users\Alexis\Documents\PROYECTOS\ExtJS\CrudPersona\web4\obj\Debug\web4.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Documents\PROYECTOS\ExtJS\CrudPersona\web4\obj\Debug\web4.dll
+C:\Users\Alexis\Documents\PROYECTOS\ExtJS\CrudPersona\web4\obj\Debug\web4.pdb
